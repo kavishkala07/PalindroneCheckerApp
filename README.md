@@ -1,11 +1,11 @@
-✅ UC4: Character Array Based Palindrome Check
+✅ UC5: Stack-Based Palindrome Checker
 🔹 Goal
 
-Convert string to char[]
+Push characters into a stack
 
-Use two-pointer technique
+Pop characters in reverse order
 
-Compare start and end characters
+Compare with original string
 
 Display result
 
@@ -15,12 +15,12 @@ Program starts
 
 A string is defined
 
-String is converted into a character array
+Characters are pushed into the stack
 
-Two pointers are initialized
+Characters are popped from the stack
 
-Characters are compared from both ends
+Compare popped characters with original string
 
-Result is displayed
+Display result
 
 Program exits
