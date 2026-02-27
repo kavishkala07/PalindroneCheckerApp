@@ -1,13 +1,13 @@
-✅ UC3: Palindrome Check Using String Reverse
+✅ UC4: Character Array Based Palindrome Check
 🔹 Goal
 
-Validate whether a string is a palindrome by:
+Convert string to char[]
 
-Reversing the string using a for loop
+Use two-pointer technique
 
-Comparing the original and reversed strings
+Compare start and end characters
 
-Displaying the result
+Display result
 
 🔄 Program Flow
 
@@ -15,9 +15,11 @@ Program starts
 
 A string is defined
 
-The string is reversed using a loop
+String is converted into a character array
 
-The original and reversed strings are compared
+Two pointers are initialized
+
+Characters are compared from both ends
 
 Result is displayed
 
