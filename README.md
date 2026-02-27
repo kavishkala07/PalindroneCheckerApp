@@ -1,13 +1,13 @@
-✅ UC3: Palindrome Check Using String Reverse
+✅ UC5: Stack-Based Palindrome Checker
 🔹 Goal
 
-Validate whether a string is a palindrome by:
+Push characters into a stack
 
-Reversing the string using a for loop
+Pop characters in reverse order
 
-Comparing the original and reversed strings
+Compare with original string
 
-Displaying the result
+Display result
 
 🔄 Program Flow
 
@@ -15,10 +15,12 @@ Program starts
 
 A string is defined
 
-The string is reversed using a loop
+Characters are pushed into the stack
 
-The original and reversed strings are compared
+Characters are popped from the stack
 
-Result is displayed
+Compare popped characters with original string
+
+Display result
 
 Program exits
